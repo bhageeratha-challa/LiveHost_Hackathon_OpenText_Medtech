@@ -48,7 +48,7 @@ Jinja2==3.1.4
 joblib==1.4.0
 keras==2.11.0
 kiwisolver==1.4.5
-kwargs==1.0.1
+kwargs==1.0.0
 libclang==14.0.6
 lxml==4.9.2
 Markdown==3.4.1
